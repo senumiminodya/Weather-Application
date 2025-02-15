@@ -70,7 +70,9 @@ const styles = StyleSheet.create({
         color: 'black',
         borderRadius: 10,
         padding: 10,
-        marginTop: 20
+        marginTop: 20,
+        borderWidth: 1,
+        borderColor: '#3d5275'
     },
     weatherItem: {
         flexDirection: "row",
